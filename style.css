@@ -15,6 +15,7 @@ body{
     width: 100%;
     max-width: 1920px;
     min-width: 1900px;
+    margin: 0 auto;
 }
 .grill_header{
     padding-top: 48px;
